@@ -1,0 +1,6 @@
+print("Hello from Python!")
+print("My first GitHub Actions workflow is successful.")
+
+a = 10
+b = 20
+print("Sum =", a + b)
